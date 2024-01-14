@@ -71,6 +71,9 @@
 		 - [ ] [[Git]]
 		 - [ ] [[Docker]]
 		 - [ ] [[Сборщики (VIte и Webpack)]]
+		 - [ ] [[Linux]]
+			 - [ ] Базовые команды (cd, touch, ls, mkdir)
+			 - [ ] Управление правами доступа
 	- [ ] [[React]]
 		 - [ ] Понимание жизненных циклов компонента
 		 - [ ] Хуки (useEffect, useState, useMemo, useCallback)
@@ -78,3 +81,4 @@
 		 - [ ] Мемоизация
 		 - [ ] Кеширование запросов (TanStack query)
 		 - [ ] Менеджер состояния (Redux toolkit)
+	- [ ] [[Основы backend]]

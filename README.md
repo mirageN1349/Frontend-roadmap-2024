@@ -6,7 +6,7 @@
 4. Ввести команду
    `git clone https://github.com/mirageN1349/Frontend-roadmap-2024.git`
 5. Открыть программу obsidian и выбрать папку `Frontend-roadmap-2024`
-6. Установить внешний плагин `MaindMap NextGen`
+6. Установить внешний плагин `MindMap NextGen`
 7. Открыть палитру команд и ввести `MaindMap NextGen: open unpinned maindmap`
 8. ЕНДЖОЙ!)
 
